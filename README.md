@@ -1,9 +1,8 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm German</h1>
 </div>
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY3ZjJhMDk3NzA1MjU2NGU1MjhkNjFjZTU1MTViMTE4OWI0ZjA2NSZjdD1n/l0K4n42JVSqqUvAQg/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY3ZjJhMDk3NzA1MjU2NGU1MjhkNjFjZTU1MTViMTE4OWI0ZjA2NSZjdD1n/l0K4n42JVSqqUvAQg/giphy.gif" width="500"/>
 </div>
 
 <div id="socials" align="center">
@@ -14,7 +13,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-
+💬 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL.
 
 
 
