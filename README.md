@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm German</h1>
-</div>
+</div> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY3ZjJhMDk3NzA1MjU2NGU1MjhkNjFjZTU1MTViMTE4OWI0ZjA2NSZjdD1n/l0K4n42JVSqqUvAQg/giphy.gif" width="500"/>
 </div>
