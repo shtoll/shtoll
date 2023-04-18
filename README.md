@@ -11,7 +11,7 @@
 	</a>
 	<a href="https://t.me/vvv484">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
+	</a> 
 </div> 
 💬 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL.
        
