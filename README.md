@@ -16,7 +16,7 @@
 💬 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL.
          
                                      
-                                   
+                                    
           
 <!--
 **shtoll/shtoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
