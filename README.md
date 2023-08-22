@@ -14,7 +14,7 @@
 	</a> 
 </div> 
 💬 I am learning these tools: Terminal, GitBash, Visual Studio Code, Postman, Android Studio, DevTools, Jira, Charles, Fiddler, JavaScript, MySQL.
-                              
+                               
     
                                                                                               
                       
